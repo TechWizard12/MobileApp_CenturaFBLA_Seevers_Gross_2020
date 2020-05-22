@@ -38,7 +38,7 @@ Mac OS 10.14+ only Versioning: Version 11.3 Version Control: GitHub iOS needed 
 
 Authors: - Initial Work- Colten Seevers & Jaelyn Gross
 
-Acknowledgments: Simplified iOS, Stack Overflow, Termly, Treelink, GitHub, Xcode, Google Forms, and the several FBLA websites.
+Acknowledgments: Simplified iOS, Stack Overflow, Termly, Linktree, GitHub, Xcode, Google Forms, and the several FBLA websites.
 
 Source Code available on GitHub
 
