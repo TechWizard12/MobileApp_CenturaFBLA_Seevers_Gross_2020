@@ -2,6 +2,7 @@
 
 Project description- Each chapter may submit entries created by an individual or team of two (2) or three (3) members in Grades 9 through 12. No more than one (1) team member may have competed in this event at a prior NLC. All team members must be registered for the State Leadership Conference to participate in this event. Develop an app for local chapters to manage their chapters: The app must include: App Name, About FBLA, Join FBLA (form), Calendar, links to FBLA websites, Local Officer Team, links to Social Media, Competitive Events, Current Events, Sign-up for a current event (form for either competitive event, fundraiser, or community service), Q & A, and Contact Us. The app must include a way to track chapter meeting attendance. The app must be designed for a phone/tablet. The operating system must be mobile based such as Android or iOS. The app should state its licensing and terms of use. This application is only in use for chapter officers and chapter sponsor not members. 
 
+Use of app: We created the app to serve as a tool to help FBLA officers inform members with everything at the touch of some buttons. So each page is to be used by officers to give information or manage certain aspects of members.
 
 Instruction for Installation: Download the zip file that was given in the application. This will give you the entire project. Next you should open up the Xcode project which would give you the project in the application. 
 
